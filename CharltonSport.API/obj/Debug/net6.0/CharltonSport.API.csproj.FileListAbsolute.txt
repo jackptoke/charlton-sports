@@ -29,3 +29,5 @@ C:\Users\jackp\Codes\AspNet\CharltonSport\CharltonSport.API\obj\Debug\net6.0\ref
 C:\Users\jackp\Codes\AspNet\CharltonSport\CharltonSport.API\obj\Debug\net6.0\CharltonSport.API.pdb
 C:\Users\jackp\Codes\AspNet\CharltonSport\CharltonSport.API\obj\Debug\net6.0\CharltonSport.API.genruntimeconfig.cache
 C:\Users\jackp\Codes\AspNet\CharltonSport\CharltonSport.API\obj\Debug\net6.0\ref\CharltonSport.API.dll
+C:\Users\jackp\Codes\AspNet\CharltonSport\CharltonSport.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jackp\Codes\AspNet\CharltonSport\CharltonSport.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
